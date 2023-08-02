@@ -1,7 +1,9 @@
 #Spotify Clone ( made with the help of video from kishan sheth's channel )
 Some Screenshots - 
 
-![Screenshot (6)](https://github.com/itsparvizal/spotify-web-/assets/103477145/b19f5747-b2c0-47c9-b835-a3018137be31)
-![Screenshot (7)](https://github.com/itsparvizal/spotify-web-/assets/103477145/44f20ce4-cd76-4fa2-ac23-b9295428a7df)
-![Screenshot (8)](https://github.com/itsparvizal/spotify-web-/assets/103477145/3bcbdb5c-7249-4c4f-aee9-703b29fdb65c)
-![Screenshot (10)](https://github.com/itsparvizal/spotify-web-/assets/103477145/ff5db1a0-073c-44c9-bfb4-6248b64c857f)
+![Screenshot (6)](https://github.com/itsparvizal/spotify-web-/assets/103477145/92e785e3-2c48-4c8b-b2d6-696b8b8c818e)
+![Screenshot (7)](https://github.com/itsparvizal/spotify-web-/assets/103477145/18cf0b30-7ab9-4ef0-94a7-0f1d2e852fd8)
+![Screenshot (8)](https://github.com/itsparvizal/spotify-web-/assets/103477145/e8c4f7a8-be58-4385-b834-33e669384f18)
+![Screenshot (9)](https://github.com/itsparvizal/spotify-web-/assets/103477145/589c98b1-9964-4161-a412-db46364ef768)
+![Screenshot (10)](https://github.com/itsparvizal/spotify-web-/assets/103477145/ea296bdc-13df-42fe-a64f-b2e1313d06e1)
+
