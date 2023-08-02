@@ -1,4 +1,4 @@
-#Spotify Clone
+#Spotify Clone ( made with the help of video from kishan sheth's channel )
 Some Screenshots - 
 ![Screenshot (6)](https://github.com/itsparvizal/spotify-web-/assets/103477145/b19f5747-b2c0-47c9-b835-a3018137be31)
 ![Screenshot (7)](https://github.com/itsparvizal/spotify-web-/assets/103477145/44f20ce4-cd76-4fa2-ac23-b9295428a7df)
